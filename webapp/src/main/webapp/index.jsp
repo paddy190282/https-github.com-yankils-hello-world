@@ -1,3 +1,14 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
-<h2> Glad to see you here </h2>
+<%@ page language="java" contentType="text/html; charset=US-ASCII"
+    pageEncoding="US-ASCII"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<title>Test JSP</title>
+</head>
+<body>
+Test JSP Page inside WEB-INF folder.<br>
+Init Param "test" value =<%=config.getInitParameter("test") %><br>
+HashCode of this object=<%=this.hashCode() %>
+</body>
+</html>
